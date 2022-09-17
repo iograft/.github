@@ -1,12 +1,14 @@
-## Hi there 👋
+## node-based workflow automation for Python
 
-<!--
+iograft is a node-based processing framework and visual programming tool for workflow automation in Python. It is all about speeding up the tedious and repetitive parts of your workflows so you can spend more time actually creating content and innovating.
 
-**Here are some ideas to get you started:**
+iograft built to integrate seamlessly with a wide variety of DCC applications and fit in with your existing workflows. Our GitHub repositories contain nodes and plugins for the applications that are currently supported, but iograft itself can work with ANY Python interpreter/API.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Useful Resources
+**Documentation** - https://docs.iograft.com
+**Discord Community** - https://discord.gg/E9evvPpW54
+**Schedule a Demo** - https://iograft.com/demo-request
+**Start a Trial** - https://iograft.com/trial
+
+### Contributing
+We welcome contributions to our node repositories. Wrote a useful node that you think others might find valuable too? Share it with the community!
