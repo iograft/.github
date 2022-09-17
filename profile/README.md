@@ -16,4 +16,4 @@ _Start a Trial_ - https://iograft.com/trial
 
 
 ### Contributing
-We welcome contributions to our node repositories. Wrote a useful node that you think others might find valuable too? Share it with the community!
+We welcome contributions to our node repositories. Have you written a useful node that you think others might find valuable too? Share it with the community!
